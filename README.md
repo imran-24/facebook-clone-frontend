@@ -1,4 +1,6 @@
-Facebook Frontend: Using React Js
+Facebook Frontend: React Js, Tailwind
+
+
 Link :
 
 ![fb](https://github.com/imran-24/React-G-mail-Clone/assets/91665909/e7cf2d80-3a83-42be-8ff4-27e0dcbe6585)
